@@ -1,0 +1,35 @@
+body{
+    background-image:url(https://thumbs.dreamstime.com/b/cartoon-books-seamless-background-tile-leather-covered-34573776.jpg) ;
+}
+
+.one{
+    background-image: linear-gradient(purple,white);
+}
+
+.two{
+     background-image: linear-gradient(purple,white);
+}
+
+.three{
+    background-image: linear-gradient(purple,white);
+}
+
+.four{
+    background-color: white;
+}
+
+.five{
+    background-image: linear-gradient(purple,white);
+}
+button{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+input{
+    width: 100%;
+}
+
+button:hover{
+    background-color: grey;
+}
